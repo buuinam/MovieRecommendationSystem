@@ -1,0 +1,6 @@
+# .streamlit/config.toml
+[server]
+maxUploadSize = 1000
+
+[install]
+strict = false
