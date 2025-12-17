@@ -1,0 +1,12 @@
+# Bỏ file data lớn
+data/*.csv
+data/*.pkl
+!data/README.txt
+
+# File tạm
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.log
+venv/
